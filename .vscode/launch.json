@@ -5,12 +5,16 @@
             "type": "al",
             "request": "launch",
             "name": "Your own server",
-            "server": "http://localhost",
-            "serverInstance": "Dynamicsnav110",
+            //"server": "http://localhost",
+            "server": "http://avinash-pc:7646/bc130",
+            "serverInstance": "BC130",
             "authentication": "Windows",
             "startupObjectId": 22,
-            "port": 2049
-
+            "port": 7649,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "schemaUpdateMode": "ForceSync"
         }
     ]
 }

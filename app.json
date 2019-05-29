@@ -1,23 +1,20 @@
 {
-  "id": "448b7fa2-9a83-4a4f-9a9a-0de28799f963",
-  "name": "GitHubDemo",
+  "id": "266a91a9-5b69-40af-9837-b995edf117e3",
+  "name": "Payment Milestone PM 1.01",
   "publisher": "Default publisher",
+  "version": "1.0.0.0",
   "brief": "",
   "description": "",
-  "version": "1.0.0.0",
-  "compatibilityId": "1.0.0.0",
   "privacyStatement": "",
   "EULA": "",
   "help": "",
   "url": "",
   "logo": "",
-  "capabilities": [],
   "dependencies": [],
   "screenshots": [],
   "platform": "11.0.0.0",
   "application": "11.0.0.0",
-  "idRange": {
-    "from": 50100,
-    "to": 50149
-  }
+  
+  "showMyCode": true,
+  "runtime": "2.4"
 }
